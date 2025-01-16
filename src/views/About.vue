@@ -5,8 +5,8 @@
                 <div class="w-full flex-col justify-start lg:items-start items-center gap-10 inline-flex">
                     <div class="w-full flex-col justify-start lg:items-start items-center gap-4 flex">
                         <h2
-                            class="text-gray-900 text-4xl font-bold font-manrope leading-normal lg:text-start text-center">
-                            TOGETHER WE CAN CREATE A BETTER SOCIETY</h2>
+                        class="mb-4 text-4xl tracking-tight font-extrabold text-black items-center">
+                            Together We Can Create A Better Society</h2>
                         <p class="text-black text-base font-normal leading-relaxed lg:text-start text-center">Welcome to
                             Youth Future Network (YFN), a groundbreaking platform designed to empower young creators,
                             entrepreneurs, and innovators. At YFN, we believe in the potential of youth to shape the
